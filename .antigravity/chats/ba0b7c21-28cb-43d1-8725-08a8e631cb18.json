@@ -4,5 +4,18 @@
   "createdAt": "2026-11-07T01:23:35.392Z",
   "filename": "ba0b7c21-28cb-43d1-8725-08a8e631cb18.json",
   "geminiStarted": false,
-  "messages": []
+  "messages": [
+    {
+      "id": "a2fdb525-a7fd-4e0c-995f-8f44900564e4",
+      "role": "user",
+      "content": "Je veux créer le réseau social ultime, qui sera la nouvelle référence en 2027. Un concept viral, unique, viable. Donne moi des idées",
+      "status": "pending",
+      "model": "gemini-3.8-flash-high",
+      "client_type": "gemini-bridge",
+      "parent_message_id": null,
+      "created_at": "2026-11-07T01:24:38.991Z",
+      "sender": "ios",
+      "is_cancelled": false
+    }
+  ]
 }
